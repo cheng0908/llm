@@ -7,3 +7,4 @@
 - [S-BERT; AI-based search engine](https://subirverma.medium.com/semantic-search-with-s-bert-is-all-you-need-951bc710e160)
 - [LM-Cocktail; Merge models makes LLM stronger](https://arxiv.org/pdf/2311.13534)
 - [LLM Retrieval--Sentence Embedding](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/)
+-[Completely local RAG; S-BERT(Retriever)+LangChain(RAG)+LlamaCpp(Llama2)](https://medium.com/@cch.chichieh/rag%E5%AF%A6%E4%BD%9C%E6%95%99%E5%AD%B8-langchain-llama2-%E5%89%B5%E9%80%A0%E4%BD%A0%E7%9A%84%E5%80%8B%E4%BA%BAllm-d6838febf8c4)
