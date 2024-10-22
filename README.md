@@ -10,11 +10,16 @@
 - [LLM Retrieval--Sentence Embedding](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/)
 - [Here is all what you need about retriever](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings2/)
 - [Using decoder model's embedding layer as a retriever; attention mechanism](https://arxiv.org/pdf/2202.08904)
+- [One-to-many scoring function, multi-field embeddings; GCL](https://arxiv.org/pdf/2404.08535)
 
 ### Model training and tips
 - [How and why to pre-train a LLM model](https://arxiv.org/abs/2004.10964)
 - [LM-Cocktail; Merge models makes LLM stronger](https://arxiv.org/pdf/2311.13534)
 - [Training master and student models](https://www.sbert.net/examples/training/multilingual/README.html)
+
+### Evaluation matrix for retrieval and re-ranking
+- [NDCG](https://www.evidentlyai.com/ranking-metrics/ndcg-metric)
+- [Ranking Metrics for Evaluating Question Answering Systems and Recommendation Systems](https://kaushikshakkari.medium.com/understanding-semantic-search-part-5-ranking-metrics-for-evaluating-question-answering-systems-f3150872d986)
 
 ### GPT Inference optimization
 - [Quantization of GPT model](https://towardsdatascience.com/quantize-llama-models-with-ggml-and-llama-cpp-3612dfbcc172)
