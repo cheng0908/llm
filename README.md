@@ -19,6 +19,7 @@
 
 ### Evaluation matrix for retrieval and re-ranking
 - [NDCG](https://www.evidentlyai.com/ranking-metrics/ndcg-metric)
+- [MRR](https://www.evidentlyai.com/ranking-metrics/mean-reciprocal-rank-mrr)
 - [Ranking Metrics for Evaluating Question Answering Systems and Recommendation Systems](https://kaushikshakkari.medium.com/understanding-semantic-search-part-5-ranking-metrics-for-evaluating-question-answering-systems-f3150872d986)
 
 ### GPT Inference optimization
