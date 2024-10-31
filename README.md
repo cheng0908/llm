@@ -16,6 +16,7 @@
 - [How and why to pre-train a LLM model](https://arxiv.org/abs/2004.10964)
 - [LM-Cocktail; Merge models makes LLM stronger](https://arxiv.org/pdf/2311.13534)
 - [Training master and student models](https://www.sbert.net/examples/training/multilingual/README.html)
+- [MiniLM; Train a out-performance student model](https://arxiv.org/pdf/2002.10957)
 
 ### Evaluation matrix for retrieval and re-ranking
 - [NDCG](https://www.evidentlyai.com/ranking-metrics/ndcg-metric)
