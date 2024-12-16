@@ -1,4 +1,4 @@
-# LLM study materials
+# LLM handbook / Study materials
 #### Here are some recommended materials for learning about large language models(LLM).
 
 ## Recommended reading list
@@ -38,6 +38,14 @@
 - [Become a pro prompt engineer with LangGPT](https://github.com/langgptai/LangGPT)
 - [Why prompt engineer is so important? What is "CO-STAR" prompt framework?](https://sydney-ai.notion.site/GPT-4-a868f41568174781b52a2f592fce7a58)
 - [Prompt template for Llama2](https://arxiv.org/pdf/2402.07483.pdf)
+
+### Function calling/ Tools for LLM
+- [Overview of function calling](https://arxiv.org/pdf/2304.08354)
+- [What is single-turn function calling](https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard.html)
+- [What is multi-turn function calling](https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html)
+- [fine-tuning for single-turn function calling](https://gautam75.medium.com/fine-tuning-llama-3-1-8b-for-function-calling-using-lora-159b9ee66060)
+- [fine-tuning for multi-turn function calling](https://arxiv.org/pdf/2410.12952)
+- [Generate training data for fine-tuning function calling by GPT-4](https://cookbook.openai.com/examples/fine_tuning_for_function_calling)
 
 ### Use cases
 - [Completely local RAG; S-BERT(Retriever)+LangChain(RAG)+LlamaCpp(Llama2)](https://medium.com/@cch.chichieh/rag%E5%AF%A6%E4%BD%9C%E6%95%99%E5%AD%B8-langchain-llama2-%E5%89%B5%E9%80%A0%E4%BD%A0%E7%9A%84%E5%80%8B%E4%BA%BAllm-d6838febf8c4)
