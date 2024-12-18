@@ -35,6 +35,7 @@
 - [Qdrant index](https://qdrant.tech/documentation/concepts/indexing/)
 
 ### Prompt Engineer
+- [Instruction-tuned model has better performance](https://openreview.net/pdf?id=gEZrGCozdqR)
 - [Become a pro prompt engineer with LangGPT](https://github.com/langgptai/LangGPT)
 - [Why prompt engineer is so important? What is "CO-STAR" prompt framework?](https://sydney-ai.notion.site/GPT-4-a868f41568174781b52a2f592fce7a58)
 - [Prompt template for Llama2](https://arxiv.org/pdf/2402.07483.pdf)
