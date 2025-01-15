@@ -52,3 +52,13 @@
 - [Completely local RAG; S-BERT(Retriever)+LangChain(RAG)+LlamaCpp(Llama2)](https://medium.com/@cch.chichieh/rag%E5%AF%A6%E4%BD%9C%E6%95%99%E5%AD%B8-langchain-llama2-%E5%89%B5%E9%80%A0%E4%BD%A0%E7%9A%84%E5%80%8B%E4%BA%BAllm-d6838febf8c4)
 - [Build a local Co-pilot](https://blog.codegpt.co/free-and-private-copilot-the-future-of-coding-with-llms-in-vscode-372330c5b163)
 - [LangChain Use cases](https://js.langchain.com/docs/use_cases)
+
+---
+## Seq2Seq (Encoder-Decoder) Series
+- [Encoder-Decoder Transformer Models: BART and T5](https://medium.com/@lmpo/encoder-decoder-transformer-models-a-comprehensive-study-of-bart-and-t5-132b3f9836ed)
+- [Generate Frequently Asked Questions from Presentation Transcripts](https://aclanthology.org/2023.inlg-main.35.pdf)
+
+---
+## User Behavior Detection Series
+- [Forecasting Long-Tern Time Series Data by Transformer Model](https://arxiv.org/pdf/2211.14730)
+- [Forecasting Long-Tern Time Series Data by Inverted Transformer Model](https://arxiv.org/pdf/2310.06625)
