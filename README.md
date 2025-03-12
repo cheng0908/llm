@@ -1,6 +1,8 @@
 # LLM handbook / Study materials
 #### Here are some recommended materials for learning about large language models(LLM).
 
+#### [My Glasp highlights](https://glasp.co/n5vm3r89druhaqmm)
+
 ## Recommended reading list
 
 ### Mainly and important concepts
