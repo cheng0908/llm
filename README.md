@@ -57,6 +57,9 @@
 - [Generate training data for fine-tuning function calling by GPT-4](https://cookbook.openai.com/examples/fine_tuning_for_function_calling)
 - [MCPO: Converting stdio-Based MCP Servers into RESTful APIs for Open-WebUI Integration and Custom Python Tool Support](https://mychen76.medium.com/mcpo-supercharge-open-webui-with-mcp-tools-4ee55024c371)
 
+### Multi-agents Design
+- [Chain-of-Retrieval Augmented Generation](https://medium.com/@zilliz_learn/chain-of-retrieval-augmented-generation-1011e8e4885c)
+
 ### Use cases
 - [Completely local RAG; S-BERT(Retriever)+LangChain(RAG)+LlamaCpp(Llama2)](https://medium.com/@cch.chichieh/rag%E5%AF%A6%E4%BD%9C%E6%95%99%E5%AD%B8-langchain-llama2-%E5%89%B5%E9%80%A0%E4%BD%A0%E7%9A%84%E5%80%8B%E4%BA%BAllm-d6838febf8c4)
 - [Build a local Co-pilot](https://blog.codegpt.co/free-and-private-copilot-the-future-of-coding-with-llms-in-vscode-372330c5b163)
