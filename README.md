@@ -20,6 +20,7 @@
 - [Training master and student models](https://www.sbert.net/examples/training/multilingual/README.html)
 - [MiniLM; Train a out-performance student model](https://arxiv.org/pdf/2002.10957)
 - [A Few-Shot Method to Generate Synthetic Queries with GPT-3 for Training High-Performance Information Retrieval Models](https://arxiv.org/pdf/2202.05144)
+- [The Limits of Embeddings: Why One Vector Can’t Fit All Queries](https://levelup.gitconnected.com/the-limits-of-embeddings-why-one-vector-cant-fit-all-queries-e10d35a917d0)
 
 ### Evaluation matrix for retrieval and re-ranking
 - [NDCG](https://www.evidentlyai.com/ranking-metrics/ndcg-metric)
